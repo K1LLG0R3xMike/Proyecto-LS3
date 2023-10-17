@@ -1,5 +1,11 @@
 # Proyecto-LS3
 
+# Autores
+  - Juan Jose Castro Sarria
+  - Miguel Angel Rodriguez
+  - Daniel Torres Valencia
+
+
 
 ¡SI NO TIENES UN ENTORNO VIRTUAL CREADO!
 1. Clona el repositorio o descarga el archivo .zip en tu computador
@@ -13,4 +19,4 @@
   - Devuelvete hasta la carpeta principal ¡cd ..!
   - Busca el 'manage.py' para activar el servidor ¡dir!
   - Metete a la carpeta donde este el 'manage.py' ¡cd "NOMBRE DE LA CARPETA"!
-  - Activa el servidor ¡python manage.py runserver! *Si no funciona este comando significa que no estas dentro del manage.py*
+  - Activa el servidor ¡python manage.py runserver! /Si no funciona este comando significa que no estas dentro del manage.py/
