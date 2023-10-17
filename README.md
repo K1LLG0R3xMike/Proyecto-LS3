@@ -8,6 +8,9 @@
 
 ## Proposito
 
+Mejorar el acceso a la atención médica y promover la salud a través de una plataforma de ayuda médica en línea, brindando servicios de consulta médica, asesoramiento de salud y recursos educativos,  proporcionar atención médica asequible y de calidad a nivel global.
+
+Este propósito se centra en la mejora del acceso a la atención médica, la promoción de la salud y la ampliación de los servicios médicos a través de una plataforma en línea. Puede adaptarse y detallarse según las metas específicas y los recursos disponibles para el proyecto.
 
 
 ## Despliegue
