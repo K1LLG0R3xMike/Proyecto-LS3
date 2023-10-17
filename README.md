@@ -8,6 +8,10 @@
 ```
 ## Proposito
 
+```
+Aqui va el proposito 
+```
+
 ## Despliegue
 ```
 ¡SI NO TIENES UN ENTORNO VIRTUAL CREADO!
