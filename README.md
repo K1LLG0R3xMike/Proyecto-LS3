@@ -1,10 +1,11 @@
 # Proyecto-LS3
 
-# Autores
+## Autores
   - Juan Jose Castro Sarria
   - Miguel Angel Rodriguez
   - Daniel Torres Valencia
 
+## Proposito
 
 
 ¡SI NO TIENES UN ENTORNO VIRTUAL CREADO!
