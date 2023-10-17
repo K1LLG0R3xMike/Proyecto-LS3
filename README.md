@@ -1,12 +1,14 @@
 # Proyecto-LS3
 
 ## Autores
+
   - Juan Jose Castro Sarria
   - Miguel Angel Rodriguez
   - Daniel Torres Valencia
 
 ## Proposito
 
+## Despliegue
 
 ¡SI NO TIENES UN ENTORNO VIRTUAL CREADO!
 1. Clona el repositorio o descarga el archivo .zip en tu computador
